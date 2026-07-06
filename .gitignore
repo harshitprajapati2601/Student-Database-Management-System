@@ -1,0 +1,57 @@
+# 📄File: `.gitignore`File: `.gitignore`
+
+```gitignore
+# =====================================================
+# Student Database Management System
+# .gitignore
+# =====================================================
+
+# MySQL Workbench
+*.mwb
+*.mwb.bak
+*.sql.bak
+
+# Database Dumps
+*.bak
+*.dump
+*.dmp
+
+# Log Files
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/
+
+# Backup Files
+backup/
+database_backup/
+
+# Environment Files
+.env
+
+# Archive Files
+*.zip
+*.rar
+*.7z
+```
+
